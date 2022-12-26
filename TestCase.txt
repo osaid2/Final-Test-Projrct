@@ -1,0 +1,15 @@
+Test Case ID :	Test Case Description	       |                   Test Data                    |	Expected Results	         |Actual Results |Pass/Fail
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+T01          : Check Login with valid Data     |  Userid = said@gmail.com Password = qwertyuio  | User should Login into an application |  As Expected	 |  Pass
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+T02          : Check Register                  |  input rihgt data                              | User should Register                  |  As Expected	 |  Pass
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+T03          : Check Add Category              |  name category = "S330"                        | Add this category                     |  As Expected	 |  Pass
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+T04          : Check Add Student               |  name Student = "Osaid moh"                    | Add this Student                      |  As Expected	 |  Pass
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+T05          : Check Add Supervisor            |  name Supervisor = "Tawfiq"                    | Add this Supervisor                   |  As Expected	 |  Pass
+
+
+
+
